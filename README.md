@@ -8,7 +8,7 @@ As a physics teacher, I've always been drawn to the creative aspect of being abl
 Some friends were really caught up by this coding, from assembly on upwards
 As the coding hardware developed and the coding software evolved, my interest is once more there.
 The revolutionizing development of AI systems make me want to keep in touch with its development
-Not in the least for the moral and ethical consequences op it.
+Not in the least for the moral and ethical consequences of it.
 So I started studying python, dived into software testing.
 Wrote some coding.
 Now I'm preparing to find my way into a community so large it dazzles me.
